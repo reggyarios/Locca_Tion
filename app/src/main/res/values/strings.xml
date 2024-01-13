@@ -1,0 +1,17 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nadya Ridha Oktovani</string>
+    <string name="nav_header_subtitle">nadyardh@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_manuka">Manuka</string>
+    <string name="menu_eska">Grand Eska</string>
+    <string name="menu_nagoya">Nagoya Mansion</string>
+    <string name="menu_bintan">Bintan Pearl Beach Resort</string>
+
+    <string name="app_name">AYDAN</string>
+    <string name="login_btn_text">GO</string>
+    <string name="developer">TUGAS UTS LAB PEMROGRAMAN MOBILE 2</string>
+</resources>
